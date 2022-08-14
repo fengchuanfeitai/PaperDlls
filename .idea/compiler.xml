@@ -6,9 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ustcori.simexp.hbdz_gdxy" />
+        <module name="ustcori.simexp.hdsf_bdtwd" />
+        <module name="ustcori.simexp.hdsf_bldt" />
+        <module name="ustcori.simexp.hbdz_sbdqcdzl" />
         <module name="ustcori.simexp.common" />
+        <module name="ustcori.simexp.hdsf_ktb" />
         <module name="ustcori.simexp.csbcss" />
+        <module name="ustcori.simexp.hbdz_bcfcdds" />
+        <module name="ustcori.simexp.hbdz_mkexgsy" />
+        <module name="ustcori.simexp.hdsf_rmdz" />
+        <module name="ustcori.simexp.fjsd_zyltf" />
+        <module name="ustcori.simexp.hdsf_jldq" />
+        <module name="ustcori.simexp.hdsf_pzg" />
+        <module name="ustcori.simexp.hdsf_sxb" />
+        <module name="ustcori.simexp.hbdz_csbssdcl" />
+        <module name="ustcori.simexp.hbdz_ysml" />
+        <module name="ustcori.simexp.hdsf_sjwyb" />
+        <module name="ustcori.simexp.hbdz_hstdq" />
+        <module name="ustcori.simexp.hdsf_jlxz" />
+        <module name="ustcori.simexp.hbdz_ndh" />
+        <module name="ustcori.simexp.gdxyfcplkcl" />
+        <module name="ustcori.simexp.gsfcwxl" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AADF" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>

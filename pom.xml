@@ -11,7 +11,29 @@
     <modules>
         <module>ustcori.simexp.common</module>
         <module>ustcori.simexp.csbcss</module>
+        <module>ustcori.simexp.fjsd_zyltf</module>
+        <module>ustcori.simexp.gdxyfcplkcl</module>
+        <module>ustcori.simexp.gsfcwxl</module>
+        <module>ustcori.simexp.hbdz_bcfcdds</module>
+        <module>ustcori.simexp.hbdz_csbssdcl</module>
+        <module>ustcori.simexp.hbdz_gdxy</module>
+        <module>ustcori.simexp.hbdz_hstdq</module>
+        <module>ustcori.simexp.hbdz_mkexgsy</module>
+        <module>ustcori.simexp.hbdz_ndh</module>
+        <module>ustcori.simexp.hbdz_sbdqcdzl</module>
+        <module>ustcori.simexp.hbdz_ysml</module>
+        <module>ustcori.simexp.hdsf_bdtwd</module>
+        <module>ustcori.simexp.hdsf_bldt</module>
+        <module>ustcori.simexp.hdsf_jldq</module>
+        <module>ustcori.simexp.hdsf_jlxz</module>
+        <module>ustcori.simexp.hdsf_ktb</module>
+        <module>ustcori.simexp.hdsf_pzg</module>
+        <module>ustcori.simexp.hdsf_rmdz</module>
+        <module>ustcori.simexp.hdsf_sjwyb</module>
+        <module>ustcori.simexp.hdsf_sxb</module>
+
     </modules>
+
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
